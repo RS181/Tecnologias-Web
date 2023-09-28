@@ -1,0 +1,11 @@
+Conectar ssh para modificar (confirmar esta parte com o professor):
+1) Na powershell colocar ssh up202109728 
+2) meter passe do sigarra
+
+Atualizar o public html : 
+1) Noutra powershell
+2) no diretorio onde contem o index.html , fazer 
+scp * up202109728@web.alunos.dcc.fc.up.pt:public_html
+
+Ver pagina html:
+1) Aceder a https://www.alunos.dcc.fc.up.pt/~up202109728/

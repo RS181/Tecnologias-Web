@@ -1,0 +1,17 @@
+h1 {
+    color: orange;
+    font-size: 50px;
+}
+
+p,
+body {
+    font-family: serif;
+    font-size: large;
+}
+
+body {
+    background-color: wheat;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+}
